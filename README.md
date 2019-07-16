@@ -30,4 +30,15 @@ python slic-superpixel.py input_image.tif 3500 5 20
 ```
 
 ## Results
+
+* original image
 ![image](https://github.com/yuyafang1014/research/blob/master/input/original_image.png)
+
+* The default value of the compactness is 5
+* max_iter is 10
+* super_pixel_size is 3500
+* sigma is 5
+![image](https://github.com/yuyafang1014/research/blob/master/output/Superpixels_--_3500_super_pixel_size.png)
+
+* 20 scale
+![image](https://github.com/yuyafang1014/research/blob/master/output/Region_Merging_--_20_scale.png)
