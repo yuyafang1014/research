@@ -21,4 +21,6 @@
 ```python
 python slic-superpixel.py input_image.tif 3500 5 20
 ```
+## Results
+
 
