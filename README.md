@@ -4,8 +4,11 @@
 ## Requirements:
 
 > gdal 2.x or 3.x
+
 > opencv & opencv_contrib >= 3.1
+
 > skimage 0.14.x or 0.15.x
+
 > matplotlib >= 1.x
 
 ## Algorithm description:
