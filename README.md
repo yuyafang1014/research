@@ -30,4 +30,4 @@ python slic-superpixel.py input_image.tif 3500 5 20
 ```
 
 ## Results
-
+![image](https://github.com/yuyafang1014/research/blob/master/input/original_image.png)
